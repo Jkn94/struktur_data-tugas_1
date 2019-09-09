@@ -2,14 +2,14 @@
 using namespace std;
 
 int main() {
-    char nim[12];
+    char nim[13];
     char nama[20];
     char alamat[50];
     int usia;
     float ipk;
 
     cout << "Nim : ";
-    cin.getline(nim, 12);
+    cin.getline(nim, 13);
 
     cout << "Nama : ";
     cin.getline(nama, 20);
